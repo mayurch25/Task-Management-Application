@@ -14,7 +14,7 @@ A full-stack web application for creating, viewing, editing, and deleting text-b
 
 - **Backend**: Node.js, Express.js
 - **Template Engine**: EJS
-- **Frontend**: HTML5, Tailwind CSS, Vanilla JavaScript
+- **Frontend**: HTML5, Vanilla JavaScript
 - **File System**: Node.js fs module for file operations
 
 ## Installation
